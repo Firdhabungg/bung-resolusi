@@ -1,0 +1,4 @@
+Bungg Resolusi
+- Konsiten untuk belajar pemrograman
+- Membuat aplikasi e-commerce sederhana dengan lingkup kecil
+- Membuat forum diskusi untuk mengerjakan tugas kuliah
