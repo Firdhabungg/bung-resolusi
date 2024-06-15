@@ -3,4 +3,4 @@ Bungg Resolusi
 - Membuat aplikasi e-commerce sederhana dengan lingkup kecil
 - Membuat forum diskusi untuk mengerjakan tugas kuliah
 - Membuat Website Pernikahan sederhana
-- Kolaborasi dengan lebih banyak expert
+- Mengkuti Lomba IT
